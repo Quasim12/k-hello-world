@@ -1,0 +1,22 @@
+{
+  "name": "k-hello-world",
+  "version": "1.0.0",
+  "description": "displaying hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quasim12/k-hello-world.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Md Kasim",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Quasim12/k-hello-world/issues"
+  },
+  "homepage": "https://github.com/Quasim12/k-hello-world#readme"
+}
